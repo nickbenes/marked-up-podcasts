@@ -1,10 +1,10 @@
 # marked-up-podcasts
-Discussion of a new way to markup podcasts for enhanced content.
+Enhanced content for better podcasts.
 
 Revolutionize the Podcast Ecosystem
 ===================================
 
-Why is this the state of the art in podcast advertising?
+[Why is this the state of the art in podcast advertising?](https://raw.githubusercontent.com/nickbenes/marked-up-podcasts/master/img/hot_flashes.png)
 
 Why am I shown ads for post-menopause treatment while listening to a Medal of Honor recipient on *The Art of Manliness*? *Really?*
 
@@ -13,6 +13,8 @@ Come on, people. We can do better than that. Together.
 What if instead I had a link to [CPT Bucha's page on wikipedia](http://en.wikipedia.org/wiki/Paul_Bucha)? Or saw a more relevant ad from the sponsor for that show? (In this case another podcast called [The Art of Charm](http://artofcharmpodcast.com).) What if I could donate to the show right there with a single touch, and without leaving the app?
 
 Podcasting is coming into its own, but to keep it growing the revenue model needs to mature. [What if podcasting today is where the web was 20 years ago?](http://www.internethistorypodcast.com/2014/10/the-webs-first-banner-ads/)
+
+[Have you ever clicked HERE to see what that looked like? YOU WILL.](https://raw.githubusercontent.com/nickbenes/marked-up-podcasts/master/img/first-ever-banner-ad.gif) (Thanks to the *Internet History Podcast* for that one.)
 
 Something's Happening Here
 --------------------------
