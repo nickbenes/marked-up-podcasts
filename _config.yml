@@ -1,0 +1,8 @@
+title: Marked-up-podcasts
+description: A new way to markup podcasts for enhanced content.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
